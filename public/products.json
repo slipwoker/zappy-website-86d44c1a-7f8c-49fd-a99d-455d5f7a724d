@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T07:24:10.112Z",
+  "generated_at": "2026-06-26T07:42:24.592Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "79ed3391-d2dc-48de-8307-16765db17eff",
+      "slug": "avryav-2zl77u",
+      "name": "אוריאו",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 3,
+      "base_price": 5,
+      "sale_price": 3,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782458959844-ul35ln.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/avryav-2zl77u",
+      "categories": [],
+      "updated_at": "2026-06-26T07:31:06.124Z"
+    }
+  ]
 }
